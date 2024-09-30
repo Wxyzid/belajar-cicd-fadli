@@ -37,4 +37,4 @@ jobs:
       uses: docker/build-push-action@v6
       with:
         push: true
-        tags: fadliahmadyazid/praktikum-popl:latest
+        tags: Wxyzid/belajar-cicd-fadli/:latest
